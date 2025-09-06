@@ -43,5 +43,5 @@ I developed the **frontend/UI** portion of the extension — focusing on:
 2. Go to `chrome://extensions/` in the address bar
 3. Enable **Developer Mode** (toggle in the top-right corner)
 4. Click **Load unpacked**
-5. Select the folder containing the `head_movement_extension` files
+5. Select the folder containing the `head_movement_extension` files.
 *This project was built by a team of 5, with contributions across frontend, backend, and facial tracking logic.*
